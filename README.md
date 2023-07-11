@@ -26,4 +26,4 @@ Topics:
 
 Day 2: Attention
 
-Note: The contents of the notebook contains the partial modification by me
+Credit: The contents of the jupyter notebooks were originally created by the dedicated volunteers of AI Summer School 2023, IIIT-H. All credit for writing and developing this notebook goes to the volunteers of the summer school. I sincerely appreciate their effort and contribution to the AI community."
