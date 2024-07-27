@@ -8,7 +8,7 @@ If you looking to  could help you
 
 Contents Covered in AI Summer School:
 Day 0: Brush up those basics
-Day 0 was basically a refresher session that encompassed/recaptulated reviewing key concepts and principles: Going over the fundamental ideas, theories, or principles related to python, Mathematics and Neural Networks.
+Day 0 was basically a refresher session that encompassed/recaptulated reviewing key concepts and principles: Going over the fundamental ideas, theories, or principles related to Python, Mathematics and Neural Networks.
 
 Topics:
 - Python Basics and Mathematics
